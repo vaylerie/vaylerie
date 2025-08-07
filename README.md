@@ -26,9 +26,9 @@ I love working on interdisciplinary projects that combine design, data, and inte
 
 <div style="display: flex; flex-wrap: nowrap; gap: 10px;">
   <a href="https://github.com/VallerieBritania">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaylerie&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Vallerie's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaylerie&theme=dracula&hide_border=true" alt="Streaks"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaylerie&theme=dracula&show_icons=true&hide_border=true&layout=compact" lt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaylerie&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Vallerie's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaylerie&theme=radical&hide_border=true" alt="Streaks"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaylerie&theme=radical&show_icons=true&hide_border=true&layout=compact" lt="Top Languages"/>
   </a>
 </div>
 
