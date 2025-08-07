@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1>Hi! I'm Vallerie 👋</h1>
 
-<!--
-**vaylerie/vaylerie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  🚀 AI Enthusiast | 💻 Fullstack Developer | 📊 Data Explorer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+Hi! I'm Vallerie Britania — a passionate tech enthusiast with a deep interest in **Machine Learning**, **AI applications**, and **Web Development**.
+
+I love working on interdisciplinary projects that combine design, data, and intelligence. I also enjoy helping users and businesses solve real problems using technology.
+
+---
+
+### 📫 Let's Connect!
+
+- ✉️ [Email](valleriebritania@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/valeriebritania)
+- 🌐 [Portfolio](https://portfolio-valerie)
+
+---
+
+## 📊 GitHub Stats
+
+<div style="display: flex; flex-wrap: nowrap; gap: 10px;">
+  <a href="https://github.com/VallerieBritania">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaylerie&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Vallerie's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaylerie&theme=dracula&hide_border=true" alt="Streaks"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaylerie&theme=dracula&show_icons=true&hide_border=true&layout=compact" lt="Top Languages"/>
+  </a>
+</div>
+
+---
+
