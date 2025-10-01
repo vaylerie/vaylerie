@@ -1,24 +1,15 @@
 <h1>Hi! I'm Vallerie 👋</h1>
 
-<p>
-  🚀 AI Enthusiast | 💻 Fullstack Developer | 📊 Data Explorer
-</p>
-
----
-
-### 👩‍💻 About Me
-
-Hi! I'm Vallerie Britania — a passionate tech enthusiast with a deep interest in **Machine Learning**, **AI applications**, and **Web Development**.
-
-I love working on interdisciplinary projects that combine design, data, and intelligence. I also enjoy helping users and businesses solve real problems using technology.
+Tech enthusiast with a focus on ML, AI, and Web Development.
+I enjoy solving real problems by combining data, design, and smart systems.
 
 ---
 
 ### 📫 Let's Connect!
 
-- ✉️ [Email](valleriebritania@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/valeriebritania)
-- 🌐 [Portfolio](https://bit.ly/portfolio-valerie)
+- ✉️ **Email:** [valleriebritania@gmail.com](mailto:valleriebritania@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/valeriebritania](https://linkedin.com/in/valeriebritania)  
+- 🌐 **Portfolio:** [bit.ly/portfolio-valerie](https://bit.ly/portfolio-valerie)  
 
 ---
 
